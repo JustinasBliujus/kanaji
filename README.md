@@ -2,6 +2,10 @@
 
 A Flutter project for learning the Japanese alphabet — **Hiragana**, **Katakana**, and **Kanji** — through exploration and flashcards.
 
+# Project state
+
+The project is not finished, since kanji page is incomplete, with limited symbols only. The data is also stored only locally.
+
 ## Walkthrough
 
 The app consists of **three main pages** — one for each writing system. On each page, users can browse all characters and tap on them to hear their pronunciation via text-to-speech.
