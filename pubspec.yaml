@@ -1,0 +1,53 @@
+name: kanaji
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_tts: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/
+
+  fonts:
+    - family: Hiragino
+      fonts:
+        - asset: lib/assets/Hiragino Kaku Gothic ProN W3.otf
+    - family: Rounded
+      fonts:
+        - asset: lib/assets/Ronde-B_square.otf
+    - family: Humour
+      fonts:
+        - asset: lib/assets/Humour-Original.ttf
+    - family: Mincho
+      fonts:
+        - asset: lib/assets/SawarabiMincho-Regular.ttf
+    - family: Gakuran
+      fonts:
+        - asset: lib/assets/gakuran_font.TTF
+    - family: Amakara
+      fonts:
+        - asset: lib/assets/amakara_sample.ttf
+    - family: Curul
+      fonts:
+        - asset: lib/assets/GL-CurulMinamoto.ttf
+    - family: Reggae
+      fonts:
+        - asset: lib/assets/ReggaeOne-Regular.ttf
