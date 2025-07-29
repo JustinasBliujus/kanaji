@@ -1,16 +1,13 @@
 # kanaji
 
-A new Flutter project.
+A flutter project for learning japanese alphabet
 
-## Getting Started
+## walkthrough
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Main UI](screenshots/katakana-page.png)
+![Main UI](screenshots/Hiragana-page.png)
+![Main UI](screenshots/kanji-page.png)
+![Main UI](screenshots/flash-cards.png)
+![Main UI](screenshots/digraphs.png)
+![Main UI](screenshots/clicking-on-symbol.png)
+![Main UI](screenshots/choosing-font.png)
